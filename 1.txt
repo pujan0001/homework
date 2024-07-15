@@ -1,0 +1,64 @@
+Types of tags
+ (a)unpaired tag
+ <br>
+ (b)paired tag
+ <p></p>
+ (c)self-closing tag
+ <img/>
+
+ 10 attributes with corresponding tag
+id  <div id="header"> </div>
+class <p class="important-text">this is important.</p>
+src <img src="image.jpg" alt="an example image">
+href <a href="https://google.com">visit google.com</a>
+alt  <img src="image.jpg" alt="picture of nature">
+title <a href="https://www.com" tittle="visit example.com">visit example.com
+target <a href="https://www.example.com" target="_blank">Visit Example.com in a new tab</a>
+disabled <button type="button" disabled>Click me (disabled)</button>
+placeholder <input type="text" placeholder="Enter your email">
+style <p style="color: red; font-size: 16px;">This text is styled inline.</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html 
+<head>
+    <title>Single page website</title>
+</head>
+<body>
+    <h1>Favorite Image and Links</h1>
+    <h2>Favorite Image</h2>
+    <img src="https://cdn.vectorstock.com/i/1000v/09/43/official-uefa-euro-2024-logo-vector-47540943.avif" width="300"/>
+    <h2>Favorite Links</h2>
+    <h2>Check out my Favorite website:</h2>
+    <a href="https://www.google.co.uk/">GOOGLE</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is assignment</h1>
+    <h2>This is assignment</h2>
+    <h3>This is assignment</h3>
+    <h4>This is assignment</h4>
+    <h5>This is assignment</h5>
+    <h6>This is assignment</h6>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae officia qui dolores cupiditate cum voluptate placeat eligendi? Nisi soluta dolores esse recusandae. Eum quas quo ut id adipisci unde ipsum.
+    </p>
+</body>
+</html>
